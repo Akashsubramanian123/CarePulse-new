@@ -36,8 +36,8 @@ class TriageEngine {
 
     _llama = Llama(
       modelPath,
-      modelParams: modelParams,
-      contextParams: contextParams,
+      modelParams,
+      contextParams,
     );
 
     _isLoaded = true;
