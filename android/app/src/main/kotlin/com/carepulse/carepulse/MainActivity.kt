@@ -1,0 +1,5 @@
+package com.carepulse.carepulse
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
