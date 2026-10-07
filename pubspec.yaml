@@ -14,7 +14,7 @@ dependencies:
   path_provider: ^2.1.4
   llama_cpp_dart: ^0.2.2
   provider: ^6.1.2
-  path: ^1.9.1
+  path: 1.9.1
 
 dev_dependencies:
   flutter_test:
